@@ -1,0 +1,21 @@
+div {
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;
+  width: 100px;
+  height: 100px;
+}
+
+h1 {
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  background-color: RED;
+}
+
+container {
+  border: 1px solid green;
+  background-color: yellowgreen;
+}
